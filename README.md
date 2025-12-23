@@ -1,1 +1,1 @@
-This is a static website for a Campus Event Management System
+This is a static website for a Campus Event Management System.
